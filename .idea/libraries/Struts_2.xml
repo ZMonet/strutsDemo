@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="Struts 2" type="struts2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../strutsDemo/lib/asm-tree-3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../strutsDemo/lib/commons-lang3-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../strutsDemo/lib/commons-beanutils-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../strutsDemo/lib/asm-3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../strutsDemo/lib/asm-commons-3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../strutsDemo/lib/commons-collections-3.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../strutsDemo/lib/commons-lang-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../strutsDemo/lib/commons-fileupload-1.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../strutsDemo/lib/commons-io-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../strutsDemo/lib/ezmorph-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../strutsDemo/lib/commons-logging-1.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../strutsDemo/lib/freemarker-2.3.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../strutsDemo/lib/javassist-3.11.0.GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../strutsDemo/lib/json-lib-2.3-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../strutsDemo/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../strutsDemo/lib/mysql-connector-java-8.0.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../strutsDemo/lib/ognl-3.0.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../strutsDemo/lib/struts2-core-2.3.34.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../strutsDemo/lib/struts2-dojo-plugin-2.3.34.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../strutsDemo/lib/struts2-json-plugin-2.3.34.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../strutsDemo/lib/xwork-core-2.3.34.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
